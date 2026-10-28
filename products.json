@@ -1,0 +1,46 @@
+{
+  "store": "WizardFit Cosmetics",
+  "tier": "Semi-fast: premium cosmetics",
+  "products": [
+    {
+      "name": "Neon Chrome Lip Kit",
+      "desc": "Lip kit, neon shades.",
+      "price_planning": "$39"
+    },
+    {
+      "name": "Holographic Highlighter",
+      "desc": "Chrome glow.",
+      "price_planning": "$35"
+    },
+    {
+      "name": "Trippy Eyeshadow Palette",
+      "desc": "Neon trippy palette.",
+      "price_planning": "$49"
+    },
+    {
+      "name": "Chrome Blush Duo",
+      "desc": "Blush duo.",
+      "price_planning": "$32"
+    },
+    {
+      "name": "Glow Setting Spray",
+      "desc": "Long wear setting.",
+      "price_planning": "$29"
+    },
+    {
+      "name": "Wizard Lash Set",
+      "desc": "Reusable lashes.",
+      "price_planning": "$25"
+    },
+    {
+      "name": "Gold Reserve Lipstick",
+      "desc": "Limited, premium case.",
+      "price_planning": "$45"
+    },
+    {
+      "name": "Skincare Glow Duo",
+      "desc": "Cleanser + glow serum.",
+      "price_planning": "$59"
+    }
+  ]
+}
